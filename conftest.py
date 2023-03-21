@@ -1,7 +1,7 @@
 # This file is automatically picked by pytest
 # while running tests. So, that each test is
 # run on difference temporary directories and avoiding
-# errors.
+# error
 
 from __future__ import annotations
 
