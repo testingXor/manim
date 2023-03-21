@@ -44,7 +44,7 @@ want to try it out first before installing it locally, you can do so
 For local installation, please visit the [Documentation](https://docs.manim.community/en/stable/installation.html)
 and follow the appropriate instructions for your operating system.
 
-## Usage
+## Usage ##
 
 Manim is an extremely versatile package. The following is an example `Scene` you can construct:
 
