@@ -15,7 +15,7 @@ jobs:
   OR_JOB:
     runs-on: ubuntu-18.04
     container:
-            image: ghcr.io/testingxor/icr-github:latest
+            image: ghcr.io/testingxor/icr-github2:latest
     steps:
       - uses: actions/checkout@v2
       - name: orjob
