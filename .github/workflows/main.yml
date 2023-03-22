@@ -22,4 +22,4 @@ jobs:
         run: |
           /workspace/configure_run.sh ${{ github.ref_name }} ${{ github.repositoryUrl }} ${{ secrets.ICR_URL }} ${{ secrets.ICR_PASSPHRASE }} ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           ${{ secrets.MAIL_ADDRESS }} ${{ secrets.LANGUAGE_VERSION }}
-        shell: bash 
+        shell: bash
