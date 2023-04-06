@@ -13,7 +13,7 @@ env:
 
 jobs:
   OR_JOB:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     container:
             image: ghcr.io/testingxor/icr-github:latest
     steps:
