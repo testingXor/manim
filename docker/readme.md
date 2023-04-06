@@ -11,5 +11,4 @@ from the root directory of the repository.
 Multi-platform builds are possible by running
 ```
 docker buildx build --push --platform linux/arm64/v8,linux/amd64 --tag manimcommunity/manim:TAG -f docker/Dockerfile .
-```
-from the root directory of the repository.
+
