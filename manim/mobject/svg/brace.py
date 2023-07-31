@@ -18,6 +18,7 @@ from manim.mobject.text.tex_mobject import MathTex, Tex
 from ...animation.composition import AnimationGroup
 from ...animation.fading import FadeIn
 from ...animation.growing import GrowFromCenter
+# OpenRefactory Warning: Importing every public name using star import should be avoided.
 from ...constants import *
 from ...mobject.types.vectorized_mobject import VMobject
 from ...utils.color import BLACK
