@@ -31,6 +31,7 @@ from typing import Dict, Iterable, Optional
 from colour import Color
 
 from manim import config, logger
+# OpenRefactory Warning: Importing every public name using star import should be avoided.
 from manim.constants import *
 from manim.mobject.geometry.line import Line
 from manim.mobject.svg.svg_mobject import SVGMobject
