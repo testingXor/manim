@@ -53,6 +53,7 @@ __all__ = ["ZoomedScene"]
 from ..animation.transform import ApplyMethod
 from ..camera.moving_camera import MovingCamera
 from ..camera.multi_camera import MultiCamera
+# OpenRefactory Warning: Importing every public name using star import should be avoided.
 from ..constants import *
 from ..mobject.types.image_mobject import ImageMobjectFromCamera
 from ..scene.moving_camera_scene import MovingCameraScene
